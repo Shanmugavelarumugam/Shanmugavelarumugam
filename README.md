@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Shanmugavel
+# Hi there! 👋 I'm Shanmugavel
 
 Flutter Developer | Aspiring Mobile App Developer
 
