@@ -18,6 +18,7 @@ I'm a passionate Flutter developer with a keen interest in building intuitive an
   <img height="30" src="https://img.icons8.com/color/48/000000/dart.png"/> <img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 - **Frameworks**: Flutter
   <img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  
 - **State Management**: Provider, Bloc
 - **Database**: Firebase
   <img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"/>
